@@ -5,3 +5,7 @@
 <p align="center">
 	<a href="https://twitter.com/imuratbenli"><img src="https://img.shields.io/twitter/follow/imuratbenli?label=Twitter&style=social" alt="Twitter"></a>
 </p>
+
+<br />
+
+<img height="600px" width="400px" alt="GIF" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" />
