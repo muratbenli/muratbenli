@@ -8,4 +8,4 @@
 
 <br />
 
-<img height="600px" width="400px" alt="GIF" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" />
+<img height="400px" width="600px" alt="GIF" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" />
