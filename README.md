@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Murat Benli! 👋🏻</h2>
-<p align="center"><em>Software Developer at <a href="https://www.bilgeadam.com/" target="_blank" rel="noopener noreferrer">Bilge Adam</a></br>
+<p align="center"><em>Front-end Developer at <a href="https://otsimo.com/en/" target="_blank" rel="noopener noreferrer">Otsimo</a></br>
 </em></p>
 
 <p align="center">
