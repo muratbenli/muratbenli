@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Murat.</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+
+👋 Hi, I’m a front-end developer based in Leipzig, Germany.
+
+💻 I enjoy building user-friendly websites and working with modern web technologies.
+
+📚 I’m always open to learning new things and improving my skills.
+
+🤝 I like visiting tech meetups to connect with others and share ideas.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
